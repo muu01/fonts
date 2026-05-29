@@ -2,8 +2,6 @@
 
 A personal font backup repository — collected and stored here after setting up a new MacBook.
 
-Some of the world's best open source fonts are hosted right here on GitHub. For all you typographers, here are some favorites ranging from system classics to coding typefaces and decorative display fonts.
-
 ## Note on Licensing
 
 These fonts come from a variety of sources and may carry different licenses. Before using any font from this repository — especially in commercial projects — please check the individual license for that font. Some are free for personal use only, some are trial versions, and some are fully open source.
